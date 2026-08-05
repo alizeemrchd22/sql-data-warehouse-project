@@ -1,4 +1,4 @@
-# 📊 Data Warehouse & Analytics Project
+#  Data Warehouse & Analytics Project
 
 A modern data warehouse project built with PostgreSQL, following industry-standard data engineering practices.
 
@@ -6,7 +6,7 @@ This project demonstrates the complete process of transforming raw data from mul
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project includes:
 
@@ -18,7 +18,7 @@ This project includes:
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - PostgreSQL
 - DBeaver
@@ -28,7 +28,7 @@ This project includes:
 
 ---
 
-## 📂 Data Warehouse Architecture
+##  Data Warehouse Architecture
 
 ```text
 CRM + ERP
@@ -48,7 +48,7 @@ Analytics & Reporting
 
 ---
 
-## 📈 Business Insights
+##  Business Insights
 
 This project explores business metrics such as:
 
@@ -58,7 +58,7 @@ This project explores business metrics such as:
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Warehousing
 - SQL Development
@@ -70,7 +70,7 @@ This project explores business metrics such as:
 
 ---
 
-## 👩‍💻 About Me
+##  About Me 
 
 Hi, I'm **Alizée Marchand**, a Data Science student passionate about data engineering and analytics.
 
